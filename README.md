@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/rishi-247/Leetcode-Submission/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
