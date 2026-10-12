@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rishi-247/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rishi-247/Leetcode-Submission/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/rishi-247/Leetcode-Submission/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rishi-247/Leetcode-Submission/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rishi-247/Leetcode-Submission/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rishi-247/Leetcode-Submission/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
