@@ -6,17 +6,6 @@ class Solution {
             k=k%n;
         }
          if (n==1 || k==0) return;
-        if(n%2==0){
-              for(int i=0;i<n-k;i++){
-            arr[i+k]=nums[i]; 
-        }
-        int n2=0;
-        for(int j=n-k;j<=n-1;j++){
-            arr[n2]=nums[j];
-            n2++;
-        }
-        }
-        else{
               for(int i=0;i<n-k;i++){
             arr[i+k]=nums[i]; 
         }
@@ -24,7 +13,6 @@ class Solution {
         for(int j=n-k;j<=n-1;j++){
             arr[n1]=nums[j];
             n1++;
-        }
         }
       
         for (int m =0;m<n;m++){
