@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rishi-247/Leetcode-Submission/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/rishi-247/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rishi-247/Leetcode-Submission/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishi-247/Leetcode-Submission/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishi-247/Leetcode-Submission/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishi-247/Leetcode-Submission/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/rishi-247/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rishi-247/Leetcode-Submission/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/rishi-247/Leetcode-Submission/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/rishi-247/Leetcode-Submission/tree/master/2235-add-two-integers) |
@@ -63,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/rishi-247/Leetcode-Submission/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rishi-247/Leetcode-Submission/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rishi-247/Leetcode-Submission/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rishi-247/Leetcode-Submission/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rishi-247/Leetcode-Submission/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
@@ -89,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rishi-247/Leetcode-Submission/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
