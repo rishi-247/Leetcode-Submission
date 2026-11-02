@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rishi-247/Leetcode-Submission/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishi-247/Leetcode-Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rishi-247/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishi-247/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rishi-247/Leetcode-Submission/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rishi-247/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rishi-247/Leetcode-Submission/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rishi-247/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0268-missing-number) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rishi-247/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishi-247/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rishi-247/Leetcode-Submission/tree/master/0451-sort-characters-by-frequency) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rishi-247/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/rishi-247/Leetcode-Submission/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
@@ -105,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rishi-247/Leetcode-Submission/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishi-247/Leetcode-Submission/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishi-247/Leetcode-Submission/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
